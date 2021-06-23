@@ -83,6 +83,9 @@ button:focus {
   max-width: 600px;
 }
 
+/* Accordion
+------------------------------------*/
+
 .accordion {
   width: 100%;
   background: var(--background);
